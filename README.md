@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **some Java and Python projects**
 
-- 🌱 I’m currently learning **Objet Orienter Programming, Machine Learning**
+- 🌱 I’m currently learning **Object Oriented Programming, Machine Learning**
 
 - 📫 How to reach me **belgutei.tsevegmed@gmail.com**
 
