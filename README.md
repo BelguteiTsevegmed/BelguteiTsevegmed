@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hi! I'm Belgutei, a Computer Science && Medicine student from Warsaw, Poland!<br>I'm currently pursuing Bachelor's in CS in University of Warsaw and MD in Medical University of Warsaw.
 <br>
-<br>🔭 Currently working on some Java and Python projects<br>
+<br>🔭 Currently working on some Java and Python projects, which I will soon add here<br>
 <br>🌱 Currently learning Object Oriented Programming, Machine Learning<br>
 <br>📫 How to reach me **belgutei.tsevegmed@gmail.com**<br>
 
