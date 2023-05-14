@@ -2,8 +2,9 @@
 Hi! I'm Belgutei, a Computer Science && Medicine student from Warsaw, Poland!<br>I'm currently pursuing Bachelor's in CS in University of Warsaw and MD in Medical University of Warsaw.
 <br>
 <br>🔭 Currently working on some university projects:<br>
-<br>    - a simple programming language with the debugger written in Java<br>
-<br>    - derivative calculator in Python <br>
+<br>    - a programming language with a custom debugger written in Java - 95% done (have to add comments) <br>
+<br>    - derivative calculator in Python - 10% done <br>
+<br>    - C function, written in NASM - 0% done <br>
 <br>🌱 Currently learning Object Oriented Programming, Machine Learning<br>
 <br>📫 How to reach me **belgutei.tsevegmed@gmail.com**<br>
 
