@@ -2,7 +2,7 @@
 Hi! I'm Belgutei, a Computer Science && Medicine student from Warsaw, Poland!<br>I'm currently pursuing Bachelor's in CS in University of Warsaw and MD in Medical University of Warsaw.
 <br>
 <br>🔭 Currently working on some personal projects:<br>
-<br>    - AI-powered automatic Anki flashcards maker
+<br>    - AI-powered automatic Anki flashcards maker<br>
 <br>🌱 Currently learning Object Oriented Programming, Computer Architecture and Operating Systems<br>
 <br>📫 How to reach me **belgutei.tsevegmed@gmail.com**<br>
 
