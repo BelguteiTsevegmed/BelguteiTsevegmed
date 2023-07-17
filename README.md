@@ -1,10 +1,8 @@
 # 💫 About Me:
 Hi! I'm Belgutei, a Computer Science && Medicine student from Warsaw, Poland!<br>I'm currently pursuing Bachelor's in CS in University of Warsaw and MD in Medical University of Warsaw.
 <br>
-<br>🔭 Currently working on some university projects:<br>
-<br>    - Block-Structured Language Interpreter and Debugger in Java - 95% done (have to add comments) <br>
-<br>    - Derivative Calculator in Python - 10% done <br>
-<br>    - x86-64 assembly program to copy bytes from one file to another, filtering 's' and 'S' characters and counting byte sequences, with error handling and file operations - 100% done <br>
+<br>🔭 Currently working on some personal projects:<br>
+<br>    - AI-powered automatic Anki flashcards maker
 <br>🌱 Currently learning Object Oriented Programming, Computer Architecture and Operating Systems<br>
 <br>📫 How to reach me **belgutei.tsevegmed@gmail.com**<br>
 
