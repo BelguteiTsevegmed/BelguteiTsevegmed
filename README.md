@@ -3,7 +3,7 @@ Hi! I'm Belgutei, a Computer Science && Medicine student from Warsaw, Poland!<br
 <br>
 <br>🔭 Currently working on some personal projects:<br>
 <br>    - AI-powered automatic Anki flashcards maker<br>
-<br>🌱 Currently learning ChatGPT API, web development<br>
+<br>🌱 Currently reading "Deep Learning with Python" by François Chollet<br>
 <br>📫 How to reach me **belgutei.tsevegmed@gmail.com**<br>
 
 
