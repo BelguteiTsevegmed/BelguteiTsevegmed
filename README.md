@@ -1,9 +1,6 @@
 # 💫 About Me:
 Hi! I'm Belgutei, a Computer Science && Medicine student from Warsaw, Poland!<br>I'm currently pursuing Bachelor's in CS in University of Warsaw and MD in Medical University of Warsaw.
-<br>
-<br>🔭 Currently working on some personal projects:<br>
-<br>    - AI-powered automatic Anki flashcards maker<br>
-<br>🌱 Currently reading "Deep Learning with Python" by François Chollet<br>
+
 <br>📫 How to reach me **belgutei.tsevegmed@gmail.com**<br>
 
 
